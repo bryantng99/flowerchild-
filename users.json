@@ -9,7 +9,7 @@
     {
         "name": "Vera",
         "rate": 26,
-        "defaultHours": 35,
+        "defaultHours": 45,
         "defaultLeave": 0,
         "defaultPH": 0
     },
@@ -35,23 +35,30 @@
         "defaultPH": 0
     },
     {
-        "name": "Lalit",
+        "name": "Cloe",
         "rate": 26,
         "defaultHours": 32,
         "defaultLeave": 0,
         "defaultPH": 0
     },
     {
-        "name": "Daniel",
+        "name": "Lyn",
         "rate": 26,
         "defaultHours": 0,
         "defaultLeave": 0,
         "defaultPH": 0
     },
     {
-        "name": "Felix",
+        "name": "Pip",
         "rate": 26,
         "defaultHours": 24,
+        "defaultLeave": 0,
+        "defaultPH": 0
+    }
+    {
+        "name": "Test Test",
+        "rate": 30,
+        "defaultHours": 12,
         "defaultLeave": 0,
         "defaultPH": 0
     }
